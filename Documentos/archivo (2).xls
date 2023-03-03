@@ -1,0 +1,1475 @@
+<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Numero</td><td>ID</td><td>Subtipo</td><td>Dias habiles evaluacion</td><td>Dias naturales evaluacion</td>
+	</tr><tr>
+		<td>213300201B0993</td><td>144</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>213300201B0994</td><td>145</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>123300EL750133</td><td>&nbsp;</td><td>OTROS</td><td>2414</td><td>3380</td>
+	</tr><tr>
+		<td>123300404A0007</td><td>&nbsp;</td><td>SOLICITUD DE REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS Y HEMODERIVADOS</td><td>2347</td><td>3285</td>
+	</tr><tr>
+		<td>123300404A0008</td><td>&nbsp;</td><td>SOLICITUD DE REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS Y HEMODERIVADOS</td><td>2347</td><td>3285</td>
+	</tr><tr>
+		<td>123300EL940167</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>2241</td><td>3137</td>
+	</tr><tr>
+		<td>123300EL490533</td><td>&nbsp;</td><td>MOLECULAS NUEVAS</td><td>2233</td><td>3125</td>
+	</tr><tr>
+		<td>123300415F0083</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>2201</td><td>3081</td>
+	</tr><tr>
+		<td>133300EL470008</td><td>&nbsp;</td><td>PROTOCOLOS</td><td>2167</td><td>3033</td>
+	</tr><tr>
+		<td>133300CT050503</td><td>&nbsp;</td><td>NO APLICA</td><td>2074</td><td>2904</td>
+	</tr><tr>
+		<td>133300EL970254</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>2069</td><td>2897</td>
+	</tr><tr>
+		<td>133300EL940083</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>2068</td><td>2894</td>
+	</tr><tr>
+		<td>133300EL940104</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>2057</td><td>2879</td>
+	</tr><tr>
+		<td>133300EL940103</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>2057</td><td>2879</td>
+	</tr><tr>
+		<td>133300CT051215</td><td>&nbsp;</td><td>NO APLICA</td><td>1979</td><td>2771</td>
+	</tr><tr>
+		<td>133300EL441811</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1974</td><td>2764</td>
+	</tr><tr>
+		<td>133300CT051321</td><td>&nbsp;</td><td>NO APLICA</td><td>1965</td><td>2751</td>
+	</tr><tr>
+		<td>133300EL442663</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1931</td><td>2703</td>
+	</tr><tr>
+		<td>133300415E0046</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>1926</td><td>2696</td>
+	</tr><tr>
+		<td>133300415E0047</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>1926</td><td>2696</td>
+	</tr><tr>
+		<td>143300EL940009</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1898</td><td>2656</td>
+	</tr><tr>
+		<td>143300EL470069</td><td>&nbsp;</td><td>PROTOCOLOS</td><td>1852</td><td>2592</td>
+	</tr><tr>
+		<td>143300EL470070</td><td>&nbsp;</td><td>PROTOCOLOS</td><td>1852</td><td>2592</td>
+	</tr><tr>
+		<td>143300EL940071</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1834</td><td>2568</td>
+	</tr><tr>
+		<td>143300EL450623</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>1763</td><td>2467</td>
+	</tr><tr>
+		<td>143300EL441589</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1763</td><td>2467</td>
+	</tr><tr>
+		<td>143300CT050619</td><td>&nbsp;</td><td>NO APLICA</td><td>1751</td><td>2451</td>
+	</tr><tr>
+		<td>133300423A0102</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>1749</td><td>2449</td>
+	</tr><tr>
+		<td>143300EL441940</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1724</td><td>2414</td>
+	</tr><tr>
+		<td>143300EL810047</td><td>&nbsp;</td><td>SOLICITUD DE REPOSICION Y DUPLICADOS</td><td>1681</td><td>2353</td>
+	</tr><tr>
+		<td>153300EL440316</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1621</td><td>2269</td>
+	</tr><tr>
+		<td>153300EL800198</td><td>&nbsp;</td><td>SOLICITUD DE COPIAS CERTIFICADAS</td><td>1570</td><td>2198</td>
+	</tr><tr>
+		<td>153300EL800197</td><td>&nbsp;</td><td>SOLICITUD DE COPIAS CERTIFICADAS</td><td>1570</td><td>2198</td>
+	</tr><tr>
+		<td>153300EL440954</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1549</td><td>2169</td>
+	</tr><tr>
+		<td>153300EL441179</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1526</td><td>2136</td>
+	</tr><tr>
+		<td>153300415H0012</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>1476</td><td>2066</td>
+	</tr><tr>
+		<td>153300EL970599</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1443</td><td>2019</td>
+	</tr><tr>
+		<td>153300EL900234</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1417</td><td>1983</td>
+	</tr><tr>
+		<td>163300EL440029</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1387</td><td>1941</td>
+	</tr><tr>
+		<td>163300CO230005</td><td>&nbsp;</td><td>MOLECULAS NUEVAS</td><td>1379</td><td>1931</td>
+	</tr><tr>
+		<td>163300EL440249</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1367</td><td>1913</td>
+	</tr><tr>
+		<td>163300EL440250</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1367</td><td>1913</td>
+	</tr><tr>
+		<td>163300EL440259</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1366</td><td>1912</td>
+	</tr><tr>
+		<td>163300EL440473</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1345</td><td>1883</td>
+	</tr><tr>
+		<td>163300ES440059</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1341</td><td>1877</td>
+	</tr><tr>
+		<td>163300EL900074</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1340</td><td>1876</td>
+	</tr><tr>
+		<td>163300EL440594</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1331</td><td>1863</td>
+	</tr><tr>
+		<td>163300EL440606</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1330</td><td>1862</td>
+	</tr><tr>
+		<td>163300EL900079</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1326</td><td>1856</td>
+	</tr><tr>
+		<td>163300129X0093</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN SANITARIA PARA CERTIFICACIÓN DE BUENAS PRÁCTICAS DE FABRICACIÓN DE FÁRMACOS, MEDICAMENTOS Y OTROS INSUMOS PARA LA SALUD EN ESTABLECIMIENTOS UBICADOS EN MÉXICO Y EN EL EXTRANJERO PARA EL OTORGAMIENTO O PRÓRROGA DEL REGISTRO SANITARIO POR LA COMISIÓN FEDERAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS</td><td>1326</td><td>1856</td>
+	</tr><tr>
+		<td>163300EL440703</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1320</td><td>1848</td>
+	</tr><tr>
+		<td>163300EL440714</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1319</td><td>1847</td>
+	</tr><tr>
+		<td>163300EL440710</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1319</td><td>1847</td>
+	</tr><tr>
+		<td>163300CO200067</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1316</td><td>1842</td>
+	</tr><tr>
+		<td>163300EL900110</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1296</td><td>1814</td>
+	</tr><tr>
+		<td>163300EL900111</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1296</td><td>1814</td>
+	</tr><tr>
+		<td>163300EL040082</td><td>&nbsp;</td><td>NO APLICA</td><td>1278</td><td>1788</td>
+	</tr><tr>
+		<td>163300EL441170</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1268</td><td>1774</td>
+	</tr><tr>
+		<td>163300EL441257</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1256</td><td>1758</td>
+	</tr><tr>
+		<td>163300EL441340</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1243</td><td>1739</td>
+	</tr><tr>
+		<td>163300EL441403</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1239</td><td>1735</td>
+	</tr><tr>
+		<td>163300EL441411</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1239</td><td>1735</td>
+	</tr><tr>
+		<td>163300EL441459</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1233</td><td>1725</td>
+	</tr><tr>
+		<td>163300EL441504</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1227</td><td>1717</td>
+	</tr><tr>
+		<td>163300EL940252</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1205</td><td>1687</td>
+	</tr><tr>
+		<td>163300EL790538</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>1194</td><td>1672</td>
+	</tr><tr>
+		<td>163300EL441899</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1179</td><td>1651</td>
+	</tr><tr>
+		<td>163300EL441900</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1179</td><td>1651</td>
+	</tr><tr>
+		<td>163300EL442009</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1160</td><td>1624</td>
+	</tr><tr>
+		<td>163300EL442111</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1147</td><td>1605</td>
+	</tr><tr>
+		<td>163300EL442110</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1147</td><td>1605</td>
+	</tr><tr>
+		<td>173300EL440067</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1122</td><td>1570</td>
+	</tr><tr>
+		<td>173300ES440025</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1118</td><td>1564</td>
+	</tr><tr>
+		<td>173300EL970180</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1066</td><td>1492</td>
+	</tr><tr>
+		<td>173300EL440608</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1054</td><td>1476</td>
+	</tr><tr>
+		<td>173300EL440607</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1054</td><td>1476</td>
+	</tr><tr>
+		<td>173300ES440100</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1050</td><td>1470</td>
+	</tr><tr>
+		<td>173300EL441361</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>918</td><td>1284</td>
+	</tr><tr>
+		<td>173300EL441436</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>904</td><td>1266</td>
+	</tr><tr>
+		<td>173300423B0040</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>1053</td><td>1473</td>
+	</tr><tr>
+		<td>173300EL441566</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>883</td><td>1235</td>
+	</tr><tr>
+		<td>173300EL441577</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>882</td><td>1234</td>
+	</tr><tr>
+		<td>183300EL440096</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>856</td><td>1198</td>
+	</tr><tr>
+		<td>183300EL440304</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>827</td><td>1157</td>
+	</tr><tr>
+		<td>183501EL440016</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>819</td><td>1147</td>
+	</tr><tr>
+		<td>183300EL440500</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>790</td><td>1106</td>
+	</tr><tr>
+		<td>183300EL440649</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>756</td><td>1058</td>
+	</tr><tr>
+		<td>183300EL440787</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>735</td><td>1029</td>
+	</tr><tr>
+		<td>183300EL040091</td><td>&nbsp;</td><td>NO APLICA</td><td>721</td><td>1009</td>
+	</tr><tr>
+		<td>183300EL441525</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>685</td><td>959</td>
+	</tr><tr>
+		<td>183300EL410693</td><td>&nbsp;</td><td>IMPORTACIONES Y EXPORTACIONES DE ALIMENTOS Y PLAFEST</td><td>657</td><td>919</td>
+	</tr><tr>
+		<td>183300EL410692</td><td>&nbsp;</td><td>IMPORTACIONES Y EXPORTACIONES DE ALIMENTOS Y PLAFEST</td><td>657</td><td>919</td>
+	</tr><tr>
+		<td>183300EL441867</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>621</td><td>869</td>
+	</tr><tr>
+		<td>193300EL440128</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>581</td><td>813</td>
+	</tr><tr>
+		<td>193300PP020090</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>569</td><td>797</td>
+	</tr><tr>
+		<td>193300PP020089</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>569</td><td>797</td>
+	</tr><tr>
+		<td>193300CT080447</td><td>&nbsp;</td><td>NO APLICA</td><td>542</td><td>758</td>
+	</tr><tr>
+		<td>193300EL800089</td><td>&nbsp;</td><td>SOLICITUD DE COPIAS CERTIFICADAS</td><td>521</td><td>729</td>
+	</tr><tr>
+		<td>193300EL450505</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>520</td><td>728</td>
+	</tr><tr>
+		<td>193300EL040437</td><td>&nbsp;</td><td>NO APLICA</td><td>507</td><td>709</td>
+	</tr><tr>
+		<td>193300EL790265</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>500</td><td>700</td>
+	</tr><tr>
+		<td>193300423A0566</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>474</td><td>664</td>
+	</tr><tr>
+		<td>193300CT110313</td><td>&nbsp;</td><td>NO APLICA</td><td>455</td><td>637</td>
+	</tr><tr>
+		<td>193300CT110312</td><td>&nbsp;</td><td>NO APLICA</td><td>455</td><td>637</td>
+	</tr><tr>
+		<td>193300EL790499</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>442</td><td>618</td>
+	</tr><tr>
+		<td>193300415D0204</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>424</td><td>594</td>
+	</tr><tr>
+		<td>193300EL441270</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>422</td><td>590</td>
+	</tr><tr>
+		<td>193300EL441270</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>422</td><td>590</td>
+	</tr><tr>
+		<td>173300ES440138</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1024</td><td>1434</td>
+	</tr><tr>
+		<td>193300EL441230</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>419</td><td>587</td>
+	</tr><tr>
+		<td>193300EL441251</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>418</td><td>584</td>
+	</tr><tr>
+		<td>193300EL790596</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>413</td><td>577</td>
+	</tr><tr>
+		<td>193300EL441373</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>404</td><td>566</td>
+	</tr><tr>
+		<td>193300EL441063</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>444</td><td>622</td>
+	</tr><tr>
+		<td>173300423A0237</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>886</td><td>1240</td>
+	</tr><tr>
+		<td>173300416X0292</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>886</td><td>1240</td>
+	</tr><tr>
+		<td>193300EL441548</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>390</td><td>546</td>
+	</tr><tr>
+		<td>193300416X0627</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>362</td><td>506</td>
+	</tr><tr>
+		<td>203300416X0491</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>141</td><td>197</td>
+	</tr><tr>
+		<td>193300423A0970</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>362</td><td>506</td>
+	</tr><tr>
+		<td>203300423B0056</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>308</td><td>430</td>
+	</tr><tr>
+		<td>193300404O0016</td><td>&nbsp;</td><td>REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS Y HEMODERIVADOS</td><td>327</td><td>457</td>
+	</tr><tr>
+		<td>203300423B0026</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>329</td><td>461</td>
+	</tr><tr>
+		<td>203300415A0032</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>330</td><td>462</td>
+	</tr><tr>
+		<td>203300421B0012</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE DISPOSITIVOS MÉDICOS</td><td>310</td><td>434</td>
+	</tr><tr>
+		<td>203300421B0011</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE DISPOSITIVOS MÉDICOS</td><td>310</td><td>434</td>
+	</tr><tr>
+		<td>203300423A0291</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>273</td><td>381</td>
+	</tr><tr>
+		<td>203300415D0120</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>203300401B1112</td><td>&nbsp;</td><td>SOLICITUD DE REGISTRO SANITARIO DE DISPOSITIVOS MÉDICOS</td><td>208</td><td>290</td>
+	</tr><tr>
+		<td>203300401B1073</td><td>&nbsp;</td><td>SOLICITUD DE REGISTRO SANITARIO DE DISPOSITIVOS MÉDICOS</td><td>211</td><td>295</td>
+	</tr><tr>
+		<td>173300EL440895</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>1013</td><td>1417</td>
+	</tr><tr>
+		<td>173300ES021650</td><td>&nbsp;</td><td>DICTAMEN SANITARIO</td><td>983</td><td>1375</td>
+	</tr><tr>
+		<td>193300404M0119</td><td>&nbsp;</td><td>REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS Y HEMODERIVADOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>193300423B0191</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>164</td><td>230</td>
+	</tr><tr>
+		<td>203300ES210178</td><td>&nbsp;</td><td>ENTREGA DE PAGO POR PRESENTACION DE SERVICIOS FUERA DE LA POBLACIÓN DONDE RADICA LA AUTORIDAD QUE LOS PROPORCIONA</td><td>198</td><td>276</td>
+	</tr><tr>
+		<td>203300415Z0169</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>135</td><td>189</td>
+	</tr><tr>
+		<td>203300423A0767</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>124</td><td>174</td>
+	</tr><tr>
+		<td>203300423A0799</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>119</td><td>167</td>
+	</tr><tr>
+		<td>203300EL450729</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>117</td><td>163</td>
+	</tr><tr>
+		<td>173300ES440169</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>979</td><td>1371</td>
+	</tr><tr>
+		<td>173300EL441142</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>964</td><td>1350</td>
+	</tr><tr>
+		<td>173300ES440193</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>942</td><td>1318</td>
+	</tr><tr>
+		<td>173300EL441333</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>922</td><td>1290</td>
+	</tr><tr>
+		<td>173300EL441478</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>894</td><td>1252</td>
+	</tr><tr>
+		<td>183300EL440014</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>867</td><td>1213</td>
+	</tr><tr>
+		<td>183300EL450100</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>851</td><td>1191</td>
+	</tr><tr>
+		<td>183300EL440240</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>838</td><td>1172</td>
+	</tr><tr>
+		<td>183300EL440303</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>827</td><td>1157</td>
+	</tr><tr>
+		<td>183300EL440451</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>800</td><td>1120</td>
+	</tr><tr>
+		<td>183300EL440539</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>782</td><td>1094</td>
+	</tr><tr>
+		<td>183300EL440548</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>778</td><td>1088</td>
+	</tr><tr>
+		<td>183300EL440588</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>767</td><td>1073</td>
+	</tr><tr>
+		<td>183300EL440709</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>746</td><td>1044</td>
+	</tr><tr>
+		<td>183300EL380764</td><td>&nbsp;</td><td>IMPORTACIONES Y EXPORTACIONES DE INSUMOS PARA LA SALUD</td><td>667</td><td>933</td>
+	</tr><tr>
+		<td>183300EL441695</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>649</td><td>909</td>
+	</tr><tr>
+		<td>183300ES211191</td><td>&nbsp;</td><td>ENTREGA DE PAGO POR PRESENTACION DE SERVICIOS FUERA DE LA POBLACIÓN DONDE RADICA LA AUTORIDAD QUE LOS PROPORCIONA</td><td>636</td><td>890</td>
+	</tr><tr>
+		<td>183300ES211203</td><td>&nbsp;</td><td>ENTREGA DE PAGO POR PRESENTACION DE SERVICIOS FUERA DE LA POBLACIÓN DONDE RADICA LA AUTORIDAD QUE LOS PROPORCIONA</td><td>633</td><td>885</td>
+	</tr><tr>
+		<td>193300EL440036</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>602</td><td>842</td>
+	</tr><tr>
+		<td>193300EL440374</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>544</td><td>762</td>
+	</tr><tr>
+		<td>193300EL450387</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>541</td><td>757</td>
+	</tr><tr>
+		<td>193300ES210182</td><td>&nbsp;</td><td>ENTREGA DE PAGO POR PRESENTACION DE SERVICIOS FUERA DE LA POBLACIÓN DONDE RADICA LA AUTORIDAD QUE LOS PROPORCIONA</td><td>539</td><td>755</td>
+	</tr><tr>
+		<td>193300EL440481</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>527</td><td>737</td>
+	</tr><tr>
+		<td>183300423B0110</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>527</td><td>737</td>
+	</tr><tr>
+		<td>193300EL440491</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>525</td><td>735</td>
+	</tr><tr>
+		<td>193300EL440533</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>517</td><td>723</td>
+	</tr><tr>
+		<td>193300423A0444</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>496</td><td>694</td>
+	</tr><tr>
+		<td>193300EL450671</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>483</td><td>675</td>
+	</tr><tr>
+		<td>193300EL790406</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>460</td><td>644</td>
+	</tr><tr>
+		<td>183300423A0265</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>458</td><td>640</td>
+	</tr><tr>
+		<td>193300EL440985</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>453</td><td>633</td>
+	</tr><tr>
+		<td>193300EL441005</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>450</td><td>630</td>
+	</tr><tr>
+		<td>193300CO260500</td><td>&nbsp;</td><td>DICTAMEN SANITARIO</td><td>442</td><td>618</td>
+	</tr><tr>
+		<td>193300EL040577</td><td>&nbsp;</td><td>NO APLICA</td><td>438</td><td>612</td>
+	</tr><tr>
+		<td>193300ES021355</td><td>&nbsp;</td><td>DICTAMEN SANITARIO</td><td>433</td><td>605</td>
+	</tr><tr>
+		<td>193300EL840146</td><td>&nbsp;</td><td>SOLICITUD DE INFORMACION DE DATOS DE ESTABLECIMIENTO</td><td>418</td><td>584</td>
+	</tr><tr>
+		<td>193300EL441273</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>414</td><td>580</td>
+	</tr><tr>
+		<td>193300EL451008</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>414</td><td>580</td>
+	</tr><tr>
+		<td>193300423A0800</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>399</td><td>559</td>
+	</tr><tr>
+		<td>193300402M0637</td><td>&nbsp;</td><td>SOLICITUD DE MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE DISPOSITIVOS MÉDICOS</td><td>396</td><td>554</td>
+	</tr><tr>
+		<td>213300416X0154</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>37</td><td>51</td>
+	</tr><tr>
+		<td>203300416X0345</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>164</td><td>230</td>
+	</tr><tr>
+		<td>203300EL450037</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>344</td><td>482</td>
+	</tr><tr>
+		<td>203300EL440094</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>336</td><td>470</td>
+	</tr><tr>
+		<td>203300423A0115</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>315</td><td>441</td>
+	</tr><tr>
+		<td>203300EL790048</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>330</td><td>462</td>
+	</tr><tr>
+		<td>203300415A0072</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>316</td><td>442</td>
+	</tr><tr>
+		<td>203300423A0099</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>320</td><td>448</td>
+	</tr><tr>
+		<td>203300001X0013</td><td>&nbsp;</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>318</td><td>444</td>
+	</tr><tr>
+		<td>203300415C0026</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>318</td><td>444</td>
+	</tr><tr>
+		<td>203300421B0010</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE DISPOSITIVOS MÉDICOS</td><td>310</td><td>434</td>
+	</tr><tr>
+		<td>203300202C1011</td><td>&nbsp;</td><td>AVISO DE PUBLICIDAD</td><td>316</td><td>442</td>
+	</tr><tr>
+		<td>203300202C1010</td><td>&nbsp;</td><td>AVISO DE PUBLICIDAD</td><td>316</td><td>442</td>
+	</tr><tr>
+		<td>203300202C1012</td><td>&nbsp;</td><td>AVISO DE PUBLICIDAD</td><td>316</td><td>442</td>
+	</tr><tr>
+		<td>203300EL440272</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>318</td><td>444</td>
+	</tr><tr>
+		<td>203300416X0451</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>213300416X0187</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>30</td><td>42</td>
+	</tr><tr>
+		<td>203300EL790114</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>315</td><td>441</td>
+	</tr><tr>
+		<td>203300EL440324</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>314</td><td>440</td>
+	</tr><tr>
+		<td>203300EL450265</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>310</td><td>434</td>
+	</tr><tr>
+		<td>203300EL450299</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>307</td><td>429</td>
+	</tr><tr>
+		<td>203300EL440787</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>213300416X0225</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>17</td><td>23</td>
+	</tr><tr>
+		<td>203300423A0287</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>273</td><td>383</td>
+	</tr><tr>
+		<td>203300415Z0171</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>134</td><td>188</td>
+	</tr><tr>
+		<td>203300415D0225</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>107</td><td>149</td>
+	</tr><tr>
+		<td>203300415D0224</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>107</td><td>149</td>
+	</tr><tr>
+		<td>203301514X0415</td><td>&nbsp;</td><td>AVISO DE MAQUILA DE INSUMOS PARA LA SALUD</td><td>258</td><td>360</td>
+	</tr><tr>
+		<td>213300416X0103</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>7</td><td>9</td>
+	</tr><tr>
+		<td>213300EL780015</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>81</td><td>113</td>
+	</tr><tr>
+		<td>213300EL790010</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>83</td><td>115</td>
+	</tr><tr>
+		<td>203300EL450577</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL440750</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>164</td><td>230</td>
+	</tr><tr>
+		<td>203300415A0263</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>141</td><td>197</td>
+	</tr><tr>
+		<td>203300423A0662</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>144</td><td>202</td>
+	</tr><tr>
+		<td>203300423B0317</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>135</td><td>189</td>
+	</tr><tr>
+		<td>203301415A0188</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>187</td><td>261</td>
+	</tr><tr>
+		<td>203300423A0466</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>169</td><td>237</td>
+	</tr><tr>
+		<td>203300415I0068</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>168</td><td>234</td>
+	</tr><tr>
+		<td>203300EL440784</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL440785</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL440786</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL440790</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL440792</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL440791</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL440788</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL440789</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300402B1179</td><td>&nbsp;</td><td>SOLICITUD DE MODIFICACION A LAS CONDICIONES DEL REGISTRO SANITARIO DE DISPOSITIVOS MÉDICOS</td><td>120</td><td>168</td>
+	</tr><tr>
+		<td>203300CT140093</td><td>&nbsp;</td><td>NO APLICA</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300415Z0151</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300415I0115</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300514X1029</td><td>&nbsp;</td><td>AVISO DE MAQUILA DE INSUMOS PARA LA SALUD</td><td>142</td><td>198</td>
+	</tr><tr>
+		<td>203300423A0642</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300202C4310</td><td>&nbsp;</td><td>AVISO DE PUBLICIDAD</td><td>142</td><td>198</td>
+	</tr><tr>
+		<td>203300421B0037</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE DISPOSITIVOS MÉDICOS</td><td>120</td><td>168</td>
+	</tr><tr>
+		<td>203300423A0896</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>110</td><td>154</td>
+	</tr><tr>
+		<td>213300416X0061</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>203300ES210264</td><td>&nbsp;</td><td>ENTREGA DE PAGO POR PRESENTACION DE SERVICIOS FUERA DE LA POBLACIÓN DONDE RADICA LA AUTORIDAD QUE LOS PROPORCIONA</td><td>144</td><td>202</td>
+	</tr><tr>
+		<td>203300423A0673</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>143</td><td>199</td>
+	</tr><tr>
+		<td>203300EL380086</td><td>&nbsp;</td><td>IMPORTACIONES Y EXPORTACIONES DE INSUMOS PARA LA SALUD</td><td>141</td><td>197</td>
+	</tr><tr>
+		<td>203300EL441188</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>104</td><td>146</td>
+	</tr><tr>
+		<td>213300EL440020</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>83</td><td>115</td>
+	</tr><tr>
+		<td>203300EL441189</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>104</td><td>146</td>
+	</tr><tr>
+		<td>203300202C5301</td><td>&nbsp;</td><td>AVISO DE PUBLICIDAD</td><td>116</td><td>162</td>
+	</tr><tr>
+		<td>203300CO210538</td><td>&nbsp;</td><td>DISPOSITIVOS MÉDICOS</td><td>110</td><td>154</td>
+	</tr><tr>
+		<td>213300415F0001</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>71</td><td>99</td>
+	</tr><tr>
+		<td>203300EL441128</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>110</td><td>154</td>
+	</tr><tr>
+		<td>213300415I0024</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>45</td><td>63</td>
+	</tr><tr>
+		<td>203300EL441187</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>104</td><td>146</td>
+	</tr><tr>
+		<td>203300EL441190</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>104</td><td>146</td>
+	</tr><tr>
+		<td>213300EL440021</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>83</td><td>115</td>
+	</tr><tr>
+		<td>213300422B0001</td><td>21.11</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS HERBOLARIOS, VITAMÍNICOS Y HOMEOPÁTICOS</td><td>71</td><td>99</td>
+	</tr><tr>
+		<td>213300423B0049</td><td>21.13</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>45</td><td>63</td>
+	</tr><tr>
+		<td>213300422A0002</td><td>21.14</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS HERBOLARIOS, VITAMÍNICOS Y HOMEOPÁTICOS</td><td>78</td><td>108</td>
+	</tr><tr>
+		<td>213300423A0022</td><td>21.15</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>76</td><td>106</td>
+	</tr><tr>
+		<td>193300416T0019</td><td>21.18</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>75</td><td>105</td>
+	</tr><tr>
+		<td>213300EL530107</td><td>21.19</td><td>LICENCIAS SANITARIAS Y PRODUCTOS</td><td>76</td><td>106</td>
+	</tr><tr>
+		<td>213300EL440195</td><td>21.21</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>61</td><td>85</td>
+	</tr><tr>
+		<td>213300CI070154</td><td>21.22</td><td>NO APLICA</td><td>57</td><td>79</td>
+	</tr><tr>
+		<td>213300001X0061</td><td>21.23</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>57</td><td>79</td>
+	</tr><tr>
+		<td>213300415C0049</td><td>21.24</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>57</td><td>79</td>
+	</tr><tr>
+		<td>213300415A0013</td><td>21.26</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>71</td><td>99</td>
+	</tr><tr>
+		<td>213300001X0057</td><td>21.30</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>61</td><td>85</td>
+	</tr><tr>
+		<td>213300415C0044</td><td>21.31</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>61</td><td>85</td>
+	</tr><tr>
+		<td>213300EL440161</td><td>21.32</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>213300001X0056</td><td>21.33</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>61</td><td>85</td>
+	</tr><tr>
+		<td>213300415C0043</td><td>21.34</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>61</td><td>85</td>
+	</tr><tr>
+		<td>213300EL440160</td><td>21.35</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>193300415A0368</td><td>21.36</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>52</td><td>72</td>
+	</tr><tr>
+		<td>213300415I0045</td><td>21.39</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>30</td><td>42</td>
+	</tr><tr>
+		<td>213300421B0002</td><td>21.52</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE DISPOSITIVOS MÉDICOS</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>213300423A0165</td><td>21.53</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>30</td><td>42</td>
+	</tr><tr>
+		<td>213300EL440196</td><td>21.60</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>61</td><td>85</td>
+	</tr><tr>
+		<td>213300415Z0032</td><td>21.65</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>30</td><td>42</td>
+	</tr><tr>
+		<td>213300CT110036</td><td>21.66</td><td>NO APLICA</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>213300CT110038</td><td>21.67</td><td>NO APLICA</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>213300CT110037</td><td>21.68</td><td>NO APLICA</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>213300423A0124</td><td>21.69</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>45</td><td>63</td>
+	</tr><tr>
+		<td>213300CI070155</td><td>21.71</td><td>NO APLICA</td><td>57</td><td>79</td>
+	</tr><tr>
+		<td>213300001X0062</td><td>21.72</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>57</td><td>79</td>
+	</tr><tr>
+		<td>213300415C0050</td><td>21.73</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>57</td><td>79</td>
+	</tr><tr>
+		<td>213300514X0338</td><td>21.84</td><td>AVISO DE MAQUILA DE INSUMOS PARA LA SALUD</td><td>37</td><td>51</td>
+	</tr><tr>
+		<td>213300ES020243</td><td>21.87</td><td>DICTAMEN SANITARIO</td><td>50</td><td>70</td>
+	</tr><tr>
+		<td>213300514X0339</td><td>21.90</td><td>AVISO DE MAQUILA DE INSUMOS PARA LA SALUD</td><td>37</td><td>51</td>
+	</tr><tr>
+		<td>213300EL530615</td><td>21.91</td><td>LICENCIAS SANITARIAS Y PRODUCTOS</td><td>27</td><td>37</td>
+	</tr><tr>
+		<td>193300416T0208</td><td>21.92</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>36</td><td>50</td>
+	</tr><tr>
+		<td>213300EL420022</td><td>21.93</td><td>PUBLICIDAD</td><td>31</td><td>43</td>
+	</tr><tr>
+		<td>213300202C3663</td><td>21.95</td><td>AVISO DE PUBLICIDAD</td><td>18</td><td>24</td>
+	</tr><tr>
+		<td>213300202C3664</td><td>21.96</td><td>AVISO DE PUBLICIDAD</td><td>18</td><td>24</td>
+	</tr><tr>
+		<td>213300202C3319</td><td>21.100</td><td>AVISO DE PUBLICIDAD</td><td>26</td><td>36</td>
+	</tr><tr>
+		<td>213300202C3322</td><td>21.101</td><td>AVISO DE PUBLICIDAD</td><td>26</td><td>36</td>
+	</tr><tr>
+		<td>213300202C3328</td><td>21.102</td><td>AVISO DE PUBLICIDAD</td><td>26</td><td>36</td>
+	</tr><tr>
+		<td>213300202C3327</td><td>21.103</td><td>AVISO DE PUBLICIDAD</td><td>26</td><td>36</td>
+	</tr><tr>
+		<td>213300202C3330</td><td>21.104</td><td>AVISO DE PUBLICIDAD</td><td>26</td><td>36</td>
+	</tr><tr>
+		<td>213300EL530568</td><td>21.105</td><td>LICENCIAS SANITARIAS Y PRODUCTOS</td><td>31</td><td>43</td>
+	</tr><tr>
+		<td>213300516B0889</td><td>21.106</td><td>CERTIFICADO DE APOYO A LA EXPORTACIÓN DE INSUMOS PARA LA SALUD</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>213300EL440521</td><td>21.116</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>13</td><td>17</td>
+	</tr><tr>
+		<td>213300201B0789</td><td>21.120</td><td>PERMISO DE PUBLICIDAD</td><td>18</td><td>24</td>
+	</tr><tr>
+		<td>213300514X0425</td><td>21.122</td><td>AVISO DE MAQUILA DE INSUMOS PARA LA SALUD</td><td>18</td><td>24</td>
+	</tr><tr>
+		<td>213300423A0207</td><td>21.123</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>18</td><td>24</td>
+	</tr><tr>
+		<td>213300415D0086</td><td>21.124</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>18</td><td>24</td>
+	</tr><tr>
+		<td>213300CI170134</td><td>21.125</td><td>A. MEDICAMENTOS</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>213300201B0801</td><td>21.126</td><td>PERMISO DE PUBLICIDAD</td><td>17</td><td>23</td>
+	</tr><tr>
+		<td>213300201B0800</td><td>21.127</td><td>PERMISO DE PUBLICIDAD</td><td>17</td><td>23</td>
+	</tr><tr>
+		<td>213300201B0911</td><td>21.128</td><td>PERMISO DE PUBLICIDAD</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>213300EL530713</td><td>21.166</td><td>LICENCIAS SANITARIAS Y PRODUCTOS</td><td>17</td><td>23</td>
+	</tr><tr>
+		<td>213300202C4075</td><td>21.167</td><td>AVISO DE PUBLICIDAD</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>213300202C4073</td><td>21.168</td><td>AVISO DE PUBLICIDAD</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>213300516C0177</td><td>21.194</td><td>CERTIFICADO DE APOYO A LA EXPORTACIÓN DE INSUMOS PARA LA SALUD</td><td>6</td><td>8</td>
+	</tr><tr>
+		<td>213300516C0178</td><td>21.195</td><td>CERTIFICADO DE APOYO A LA EXPORTACIÓN DE INSUMOS PARA LA SALUD</td><td>6</td><td>8</td>
+	</tr><tr>
+		<td>213300516C0179</td><td>21.196</td><td>CERTIFICADO DE APOYO A LA EXPORTACIÓN DE INSUMOS PARA LA SALUD</td><td>6</td><td>8</td>
+	</tr><tr>
+		<td>213300516C0180</td><td>21.197</td><td>CERTIFICADO DE APOYO A LA EXPORTACIÓN DE INSUMOS PARA LA SALUD</td><td>6</td><td>8</td>
+	</tr><tr>
+		<td>213300516C0176</td><td>21.198</td><td>CERTIFICADO DE APOYO A LA EXPORTACIÓN DE INSUMOS PARA LA SALUD</td><td>6</td><td>8</td>
+	</tr><tr>
+		<td>213300202C4361</td><td>21.199</td><td>AVISO DE PUBLICIDAD</td><td>7</td><td>9</td>
+	</tr><tr>
+		<td>213300201B0954</td><td>21.201</td><td>PERMISO DE PUBLICIDAD</td><td>7</td><td>9</td>
+	</tr><tr>
+		<td>213300201B0955</td><td>21.202</td><td>PERMISO DE PUBLICIDAD</td><td>7</td><td>9</td>
+	</tr><tr>
+		<td>213300201B0956</td><td>21.203</td><td>PERMISO DE PUBLICIDAD</td><td>7</td><td>9</td>
+	</tr><tr>
+		<td>213300201B0957</td><td>21.204</td><td>PERMISO DE PUBLICIDAD</td><td>7</td><td>9</td>
+	</tr><tr>
+		<td>213300PP020051</td><td>21.206</td><td>DISPOSITIVOS MÉDICOS</td><td>6</td><td>8</td>
+	</tr><tr>
+		<td>213300CT220026</td><td>21.210</td><td>B. DISPOSITIVOS MÉDICOS</td><td>13</td><td>17</td>
+	</tr><tr>
+		<td>203300415J0070</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>168</td><td>234</td>
+	</tr><tr>
+		<td>203300415Z0193</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300415I0187</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>110</td><td>154</td>
+	</tr><tr>
+		<td>203300423A0893</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>110</td><td>154</td>
+	</tr><tr>
+		<td>203300415Z0132</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>203300415I0098</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300423A0679</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>142</td><td>198</td>
+	</tr><tr>
+		<td>213300001X0060</td><td>&nbsp;</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>57</td><td>79</td>
+	</tr><tr>
+		<td>213300415C0048</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>57</td><td>79</td>
+	</tr><tr>
+		<td>193300415L0158</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>43</td><td>59</td>
+	</tr><tr>
+		<td>193300423M0159</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>371</td><td>519</td>
+	</tr><tr>
+		<td>203300416X0063</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>324</td><td>454</td>
+	</tr><tr>
+		<td>203300423A0111</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>316</td><td>442</td>
+	</tr><tr>
+		<td>203300415A0050</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>324</td><td>454</td>
+	</tr><tr>
+		<td>203300423A0112</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>316</td><td>442</td>
+	</tr><tr>
+		<td>203300416X0558</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>130</td><td>182</td>
+	</tr><tr>
+		<td>203300423A0832</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>116</td><td>162</td>
+	</tr><tr>
+		<td>193300423A0905</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>370</td><td>518</td>
+	</tr><tr>
+		<td>213300415Z0011</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>203300415Z0194</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300415I0188</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>110</td><td>154</td>
+	</tr><tr>
+		<td>203300423A0961</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>104</td><td>146</td>
+	</tr><tr>
+		<td>203300416X0648</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300423A0892</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>110</td><td>154</td>
+	</tr><tr>
+		<td>203300415I0139</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>135</td><td>189</td>
+	</tr><tr>
+		<td>203300423A0748</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>129</td><td>181</td>
+	</tr><tr>
+		<td>203300415Z0138</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300415I0221</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>98</td><td>136</td>
+	</tr><tr>
+		<td>193300416T0332</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>362</td><td>506</td>
+	</tr><tr>
+		<td>193300416T0323</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>367</td><td>513</td>
+	</tr><tr>
+		<td>193300423L0097</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>366</td><td>512</td>
+	</tr><tr>
+		<td>193300416T0333</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>362</td><td>506</td>
+	</tr><tr>
+		<td>203300415Z0150</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300423B0353</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>122</td><td>170</td>
+	</tr><tr>
+		<td>193300416T0255</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>435</td><td>609</td>
+	</tr><tr>
+		<td>203300423A0834</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>116</td><td>162</td>
+	</tr><tr>
+		<td>193300416T0317</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>375</td><td>525</td>
+	</tr><tr>
+		<td>193300423M0156</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>374</td><td>524</td>
+	</tr><tr>
+		<td>203300416X0362</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>203300415A0274</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>136</td><td>190</td>
+	</tr><tr>
+		<td>203300423A0837</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>116</td><td>162</td>
+	</tr><tr>
+		<td>203300416XA0321</td><td>&nbsp;</td><td>ter">
+                            
+
+	
+                        
+                    </td><td>168</td><td>234</td>
+	</tr><tr>
+		<td>203300416X0154</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>299</td><td>419</td>
+	</tr><tr>
+		<td>193300404M0114</td><td>&nbsp;</td><td>REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS Y HEMODERIVADOS</td><td>122</td><td>170</td>
+	</tr><tr>
+		<td>193300404M0115</td><td>&nbsp;</td><td>REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS Y HEMODERIVADOS</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300415Z0122</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>164</td><td>230</td>
+	</tr><tr>
+		<td>203300423A0639</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300415D0151</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>141</td><td>197</td>
+	</tr><tr>
+		<td>203300415Z0165</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>136</td><td>190</td>
+	</tr><tr>
+		<td>203300415I0172</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300423A0874</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>112</td><td>156</td>
+	</tr><tr>
+		<td>203300415Z0168</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>135</td><td>189</td>
+	</tr><tr>
+		<td>203300415I0149</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>129</td><td>181</td>
+	</tr><tr>
+		<td>213300423A0079</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>58</td><td>80</td>
+	</tr><tr>
+		<td>203300416X0347</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>164</td><td>230</td>
+	</tr><tr>
+		<td>203300415I0208</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>104</td><td>146</td>
+	</tr><tr>
+		<td>203300415Z0195</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300415I0008</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>312</td><td>436</td>
+	</tr><tr>
+		<td>203300423A0172</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>301</td><td>421</td>
+	</tr><tr>
+		<td>203300415C0037</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>301</td><td>421</td>
+	</tr><tr>
+		<td>203300415Z0133</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>203300415I0113</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300423A0833</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>116</td><td>162</td>
+	</tr><tr>
+		<td>203300415Z0149</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300423A0681</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>142</td><td>198</td>
+	</tr><tr>
+		<td>203300415I0207</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>104</td><td>146</td>
+	</tr><tr>
+		<td>203300415D0249</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>98</td><td>136</td>
+	</tr><tr>
+		<td>203300415I0138</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>136</td><td>190</td>
+	</tr><tr>
+		<td>203300415A0264</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>141</td><td>197</td>
+	</tr><tr>
+		<td>203300415Z0131</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>203300415I0114</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300423A0685</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>141</td><td>197</td>
+	</tr><tr>
+		<td>203300415Z0124</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>164</td><td>230</td>
+	</tr><tr>
+		<td>203300415I0085</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>203300423A0640</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300423A0640</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300415Z0130</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>203300423A0717</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>135</td><td>189</td>
+	</tr><tr>
+		<td>203300415F0044</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300415Z0047</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>301</td><td>421</td>
+	</tr><tr>
+		<td>203300423A0706</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>136</td><td>190</td>
+	</tr><tr>
+		<td>203300415Z0035</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>309</td><td>433</td>
+	</tr><tr>
+		<td>203300415I0015</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>306</td><td>428</td>
+	</tr><tr>
+		<td>203300423A0191</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>299</td><td>419</td>
+	</tr><tr>
+		<td>203300415Z0042</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>304</td><td>426</td>
+	</tr><tr>
+		<td>203300423A0680</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>142</td><td>198</td>
+	</tr><tr>
+		<td>203300415Z0162</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>141</td><td>197</td>
+	</tr><tr>
+		<td>203300415I0137</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>136</td><td>190</td>
+	</tr><tr>
+		<td>203300423A0793</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>120</td><td>168</td>
+	</tr><tr>
+		<td>203300423A0794</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>120</td><td>168</td>
+	</tr><tr>
+		<td>203300415Z0161</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>141</td><td>197</td>
+	</tr><tr>
+		<td>203300415I0128</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>141</td><td>197</td>
+	</tr><tr>
+		<td>203300423A0709</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>136</td><td>190</td>
+	</tr><tr>
+		<td>203300415Z0192</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300415I0202</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>107</td><td>149</td>
+	</tr><tr>
+		<td>203300423A0995</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>98</td><td>136</td>
+	</tr><tr>
+		<td>193300415A0373</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>52</td><td>72</td>
+	</tr><tr>
+		<td>213300416X0060</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>193300423A0818</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>392</td><td>548</td>
+	</tr><tr>
+		<td>203301423A0373</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>208</td><td>290</td>
+	</tr><tr>
+		<td>203300415Z0189</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>116</td><td>162</td>
+	</tr><tr>
+		<td>203300415I0189</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>110</td><td>154</td>
+	</tr><tr>
+		<td>203300423A0940</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>107</td><td>149</td>
+	</tr><tr>
+		<td>203300416X0649</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300415Z0050</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>300</td><td>420</td>
+	</tr><tr>
+		<td>203300423A0715</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>135</td><td>189</td>
+	</tr><tr>
+		<td>193300416T0318</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>374</td><td>524</td>
+	</tr><tr>
+		<td>203300415Z0023</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>323</td><td>451</td>
+	</tr><tr>
+		<td>203300423B0054</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>309</td><td>433</td>
+	</tr><tr>
+		<td>203300415J0102</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300415Z0139</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300423B0282</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>193300423A0008</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>193300EL440198</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>572</td><td>800</td>
+	</tr><tr>
+		<td>193300EL440267</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>561</td><td>785</td>
+	</tr><tr>
+		<td>203301423B0145</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>219</td><td>307</td>
+	</tr><tr>
+		<td>203301423B0143</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>219</td><td>307</td>
+	</tr><tr>
+		<td>203300423A0046</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>333</td><td>465</td>
+	</tr><tr>
+		<td>193300423A0746</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>416</td><td>582</td>
+	</tr><tr>
+		<td>203300423L0001</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>340</td><td>476</td>
+	</tr><tr>
+		<td>203300423B0016</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>330</td><td>462</td>
+	</tr><tr>
+		<td>213300301X0276</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN PARA TOMA DE MUESTRAS Y LIBERACIÓN DE ESTUPEFACIENTES Y PSICOTRÓPICOS</td><td>30</td><td>42</td>
+	</tr><tr>
+		<td>213300301X0314</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN PARA TOMA DE MUESTRAS Y LIBERACIÓN DE ESTUPEFACIENTES Y PSICOTRÓPICOS</td><td>17</td><td>23</td>
+	</tr><tr>
+		<td>213300EL351030</td><td>&nbsp;</td><td>ESTUPEFACIENTES PSICOTROPICOS Y SUSTANCIAS QUIMICAS</td><td>17</td><td>23</td>
+	</tr><tr>
+		<td>213300EL350873</td><td>&nbsp;</td><td>ESTUPEFACIENTES PSICOTROPICOS Y SUSTANCIAS QUIMICAS</td><td>28</td><td>38</td>
+	</tr><tr>
+		<td>213300EL350790</td><td>&nbsp;</td><td>ESTUPEFACIENTES PSICOTROPICOS Y SUSTANCIAS QUIMICAS</td><td>36</td><td>50</td>
+	</tr><tr>
+		<td>213300318C0008</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN DE MATERIA PRIMA Y MEDICAMENTOS QUE SEAN O CONTENGAN ESTUPEFACIENTES O PSICOTRÓPICOS</td><td>49</td><td>69</td>
+	</tr><tr>
+		<td>203300EL350950</td><td>&nbsp;</td><td>ESTUPEFACIENTES PSICOTROPICOS Y SUSTANCIAS QUIMICAS</td><td>291</td><td>407</td>
+	</tr><tr>
+		<td>203300318C0001</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN DE MATERIA PRIMA Y MEDICAMENTOS QUE SEAN O CONTENGAN ESTUPEFACIENTES O PSICOTRÓPICOS</td><td>342</td><td>478</td>
+	</tr><tr>
+		<td>203300318A0002</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN DE MATERIA PRIMA Y MEDICAMENTOS QUE SEAN O CONTENGAN ESTUPEFACIENTES O PSICOTRÓPICOS</td><td>339</td><td>475</td>
+	</tr><tr>
+		<td>213300EL530714</td><td>&nbsp;</td><td>LICENCIAS SANITARIAS Y PRODUCTOS</td><td>17</td><td>23</td>
+	</tr><tr>
+		<td>193300EL940084</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>500</td><td>700</td>
+	</tr><tr>
+		<td>213300EL530514</td><td>&nbsp;</td><td>LICENCIAS SANITARIAS Y PRODUCTOS</td><td>37</td><td>51</td>
+	</tr><tr>
+		<td>213300CT140023</td><td>&nbsp;</td><td>NO APLICA</td><td>76</td><td>106</td>
+	</tr><tr>
+		<td>213300CT140076</td><td>&nbsp;</td><td>NO APLICA</td><td>52</td><td>72</td>
+	</tr><tr>
+		<td>213300CI170132</td><td>&nbsp;</td><td>A. MEDICAMENTOS</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>213300CI170131</td><td>&nbsp;</td><td>A. MEDICAMENTOS</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>213300423A0230</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>193300ES190166</td><td>&nbsp;</td><td>PROGRAMAS ESPECIALES</td><td>572</td><td>800</td>
+	</tr><tr>
+		<td>193300ES120218</td><td>&nbsp;</td><td>RESOLUCIONES Y SANCIONES</td><td>481</td><td>673</td>
+	</tr><tr>
+		<td>193300CT140070</td><td>&nbsp;</td><td>NO APLICA</td><td>473</td><td>661</td>
+	</tr><tr>
+		<td>193300CT110311</td><td>&nbsp;</td><td>NO APLICA</td><td>455</td><td>637</td>
+	</tr><tr>
+		<td>193300CT110310</td><td>&nbsp;</td><td>NO APLICA</td><td>455</td><td>637</td>
+	</tr><tr>
+		<td>193300CT110314</td><td>&nbsp;</td><td>NO APLICA</td><td>455</td><td>637</td>
+	</tr><tr>
+		<td>193300EL441204</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>422</td><td>590</td>
+	</tr><tr>
+		<td>193300EL790573</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>417</td><td>583</td>
+	</tr><tr>
+		<td>193300CT140109</td><td>&nbsp;</td><td>NO APLICA</td><td>415</td><td>581</td>
+	</tr><tr>
+		<td>193300ES130054</td><td>&nbsp;</td><td>RESOLUCIONES Y SANCIONES</td><td>413</td><td>577</td>
+	</tr><tr>
+		<td>193300EL441416</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>398</td><td>556</td>
+	</tr><tr>
+		<td>203300120X0033</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN SANITARIA PARA EXPORTACIÓN</td><td>312</td><td>436</td>
+	</tr><tr>
+		<td>203300ES010357</td><td>&nbsp;</td><td>DICTAMEN SANITARIO</td><td>172</td><td>240</td>
+	</tr><tr>
+		<td>203300318A0039</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN DE MATERIA PRIMA Y MEDICAMENTOS QUE SEAN O CONTENGAN ESTUPEFACIENTES O PSICOTRÓPICOS</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300ES010458</td><td>&nbsp;</td><td>DICTAMEN SANITARIO</td><td>140</td><td>196</td>
+	</tr><tr>
+		<td>203300ES220238</td><td>&nbsp;</td><td>ENTREGA DE PAGO POR PRESENTACION DE SERVICIOS FUERA DE LA POBLACIÓN DONDE RADICA LA AUTORIDAD QUE LOS PROPORCIONA</td><td>140</td><td>196</td>
+	</tr><tr>
+		<td>203300EL790256</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>139</td><td>195</td>
+	</tr><tr>
+		<td>203300EL790255</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>139</td><td>195</td>
+	</tr><tr>
+		<td>203300120X0134</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN SANITARIA PARA EXPORTACIÓN</td><td>133</td><td>185</td>
+	</tr><tr>
+		<td>203300129X0356</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN SANITARIA PARA CERTIFICACIÓN DE BUENAS PRÁCTICAS DE FABRICACIÓN DE FÁRMACOS, MEDICAMENTOS Y OTROS INSUMOS PARA LA SALUD EN ESTABLECIMIENTOS UBICADOS EN MÉXICO Y EN EL EXTRANJERO PARA EL OTORGAMIENTO O PRÓRROGA DEL REGISTRO SANITARIO POR LA COMISIÓN FEDERAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS</td><td>129</td><td>181</td>
+	</tr><tr>
+		<td>203300ES030107</td><td>&nbsp;</td><td>DICTAMEN SANITARIO</td><td>122</td><td>170</td>
+	</tr><tr>
+		<td>203300ES210326</td><td>&nbsp;</td><td>ENTREGA DE PAGO POR PRESENTACION DE SERVICIOS FUERA DE LA POBLACIÓN DONDE RADICA LA AUTORIDAD QUE LOS PROPORCIONA</td><td>121</td><td>169</td>
+	</tr><tr>
+		<td>213300EL850013</td><td>&nbsp;</td><td>SOLICITUD DE CARTA DE NO UTILIZACION DE PAGO DE DERECHOS</td><td>83</td><td>115</td>
+	</tr><tr>
+		<td>213300EL790023</td><td>&nbsp;</td><td>SOLICITUD DE DESISTIMIENTO DE TRÁMITE</td><td>76</td><td>106</td>
+	</tr><tr>
+		<td>213300CT140061</td><td>&nbsp;</td><td>NO APLICA</td><td>58</td><td>80</td>
+	</tr><tr>
+		<td>213300PP010041</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>46</td><td>64</td>
+	</tr><tr>
+		<td>213300501E0039</td><td>&nbsp;</td><td>SOLICITUD DE EXPEDICIÓN DE LICENCIA SANITARIA DE ESTABLECIMIENTOS DE INSUMOS PARA LA SALUD</td><td>45</td><td>63</td>
+	</tr><tr>
+		<td>213300PP010053</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>43</td><td>59</td>
+	</tr><tr>
+		<td>213300EL440359</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>36</td><td>50</td>
+	</tr><tr>
+		<td>213300CI250037</td><td>&nbsp;</td><td>NO APLICA</td><td>36</td><td>50</td>
+	</tr><tr>
+		<td>213300301X0275</td><td>&nbsp;</td><td>SOLICITUD DE VISITA DE VERIFICACIÓN PARA TOMA DE MUESTRAS Y LIBERACIÓN DE ESTUPEFACIENTES Y PSICOTRÓPICOS</td><td>30</td><td>42</td>
+	</tr><tr>
+		<td>213300ES200106</td><td>&nbsp;</td><td>VIGILANCIA SANITARIA</td><td>13</td><td>17</td>
+	</tr><tr>
+		<td>103300423A0210</td><td>&nbsp;</td><td>ter">
+                            
+
+	
+                        
+                    </td><td>2924</td><td>4094</td>
+	</tr><tr>
+		<td>123300404B0070</td><td>&nbsp;</td><td>SOLICITUD DE REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS Y HEMODERIVADOS</td><td>2289</td><td>3205</td>
+	</tr><tr>
+		<td>163300423A0129</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>1133</td><td>1585</td>
+	</tr><tr>
+		<td>173300ES440155</td><td>&nbsp;</td><td>MEDICAMENTOS</td><td>1004</td><td>1406</td>
+	</tr><tr>
+		<td>18330023AI0056</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>712</td><td>996</td>
+	</tr><tr>
+		<td>203300423A0017</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>601</td><td>841</td>
+	</tr><tr>
+		<td>193300415H0012</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>489</td><td>685</td>
+	</tr><tr>
+		<td>193300423A0561</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>475</td><td>665</td>
+	</tr><tr>
+		<td>193300423A0596</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>460</td><td>644</td>
+	</tr><tr>
+		<td>19330015AC0026</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>435</td><td>609</td>
+	</tr><tr>
+		<td>19330023AC0025</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>426</td><td>596</td>
+	</tr><tr>
+		<td>193300423A0751</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>415</td><td>581</td>
+	</tr><tr>
+		<td>193300423A0768</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>410</td><td>574</td>
+	</tr><tr>
+		<td>19330023AC0032</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>386</td><td>540</td>
+	</tr><tr>
+		<td>19330015AC0038</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>372</td><td>520</td>
+	</tr><tr>
+		<td>19330023AC0037</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>372</td><td>520</td>
+	</tr><tr>
+		<td>193300423A0973</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>362</td><td>506</td>
+	</tr><tr>
+		<td>20330016XC0001</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>338</td><td>472</td>
+	</tr><tr>
+		<td>20330023AC0001</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>338</td><td>472</td>
+	</tr><tr>
+		<td>203300423A0033</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>336</td><td>470</td>
+	</tr><tr>
+		<td>20330023AC0003</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>308</td><td>430</td>
+	</tr><tr>
+		<td>203300415Z0036</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>307</td><td>429</td>
+	</tr><tr>
+		<td>203300423B0060</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>306</td><td>428</td>
+	</tr><tr>
+		<td>203300415Z0053</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>299</td><td>419</td>
+	</tr><tr>
+		<td>203300416X0170</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>293</td><td>409</td>
+	</tr><tr>
+		<td>203300404B0041</td><td>&nbsp;</td><td>REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS Y HEMODERIVADOS</td><td>291</td><td>407</td>
+	</tr><tr>
+		<td>203300416X0203</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>276</td><td>386</td>
+	</tr><tr>
+		<td>203300423A0292</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>273</td><td>381</td>
+	</tr><tr>
+		<td>203300416X0212</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>273</td><td>381</td>
+	</tr><tr>
+		<td>203300423A0293</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>273</td><td>381</td>
+	</tr><tr>
+		<td>203300415Z0059</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>273</td><td>381</td>
+	</tr><tr>
+		<td>203300415Z0062</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>270</td><td>378</td>
+	</tr><tr>
+		<td>203300412A0031</td><td>&nbsp;</td><td>SOLICITUD DE REVOCACIÓN DEL REGISTRO SANITARIO Y OTRAS AUTORIZACIONES</td><td>191</td><td>267</td>
+	</tr><tr>
+		<td>203300412A0041</td><td>&nbsp;</td><td>SOLICITUD DE REVOCACIÓN DEL REGISTRO SANITARIO Y OTRAS AUTORIZACIONES</td><td>178</td><td>248</td>
+	</tr><tr>
+		<td>203300423A0478</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>168</td><td>234</td>
+	</tr><tr>
+		<td>203300423A0480</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>168</td><td>234</td>
+	</tr><tr>
+		<td>203300423A0479</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>168</td><td>234</td>
+	</tr><tr>
+		<td>203300416X0348</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>164</td><td>230</td>
+	</tr><tr>
+		<td>20330016XC0007</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>164</td><td>230</td>
+	</tr><tr>
+		<td>203300001X0141</td><td>&nbsp;</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>163</td><td>227</td>
+	</tr><tr>
+		<td>203300415C0145</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>163</td><td>227</td>
+	</tr><tr>
+		<td>203300001X0142</td><td>&nbsp;</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>163</td><td>227</td>
+	</tr><tr>
+		<td>203300415C0146</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>163</td><td>227</td>
+	</tr><tr>
+		<td>203300423A0527</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>203300423A0526</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>193300423A0561</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>475</td><td>665</td>
+	</tr><tr>
+		<td>203300416X0361</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>161</td><td>225</td>
+	</tr><tr>
+		<td>203300423A0576</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>20330023AC0010</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>193300415M0015</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>152</td><td>212</td>
+	</tr><tr>
+		<td>193300423A0298</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300416X0452</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>148</td><td>206</td>
+	</tr><tr>
+		<td>203300EL440861</td><td>&nbsp;</td><td>REGISTRO SANITARIOS DE MEDICAMENTOS</td><td>144</td><td>202</td>
+	</tr><tr>
+		<td>193300416T0150</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>139</td><td>195</td>
+	</tr><tr>
+		<td>203300423A0781</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>122</td><td>170</td>
+	</tr><tr>
+		<td>203300416X0596</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>122</td><td>170</td>
+	</tr><tr>
+		<td>203300416X0603</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>122</td><td>170</td>
+	</tr><tr>
+		<td>193300423B0192</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>119</td><td>167</td>
+	</tr><tr>
+		<td>19330023BC0011</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>119</td><td>167</td>
+	</tr><tr>
+		<td>19330015AC0023</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>119</td><td>167</td>
+	</tr><tr>
+		<td>203300415Z0188</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>116</td><td>162</td>
+	</tr><tr>
+		<td>203300415Z0187</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>116</td><td>162</td>
+	</tr><tr>
+		<td>203300423A0848</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300423A0846</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300423A0845</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>115</td><td>161</td>
+	</tr><tr>
+		<td>203300423A0875</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>112</td><td>156</td>
+	</tr><tr>
+		<td>203300423A0894</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>110</td><td>154</td>
+	</tr><tr>
+		<td>203300001X0213</td><td>&nbsp;</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>111</td><td>155</td>
+	</tr><tr>
+		<td>203300001X0214</td><td>&nbsp;</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>111</td><td>155</td>
+	</tr><tr>
+		<td>203300001X0220</td><td>&nbsp;</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>108</td><td>150</td>
+	</tr><tr>
+		<td>203300415C0303</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>108</td><td>150</td>
+	</tr><tr>
+		<td>203300001X0221</td><td>&nbsp;</td><td>CESIÓN DE DERECHOS DEL REGISTRO SANITARIO DE MEDICAMENTOS</td><td>108</td><td>150</td>
+	</tr><tr>
+		<td>203300415C0304</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>108</td><td>150</td>
+	</tr><tr>
+		<td>203300423A0943</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>107</td><td>149</td>
+	</tr><tr>
+		<td>203300404B0194</td><td>&nbsp;</td><td>REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS Y HEMODERIVADOS</td><td>104</td><td>146</td>
+	</tr><tr>
+		<td>203300416X0744</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>104</td><td>146</td>
+	</tr><tr>
+		<td>213300423A0050</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>65</td><td>91</td>
+	</tr><tr>
+		<td>213300415Z0020</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DE REGISTRO SANITARIO DE MEDICAMENTOS SIN CAMBIO EN EL PROCESO DE FABRICACIÓN</td><td>52</td><td>72</td>
+	</tr><tr>
+		<td>213300416X0102</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>52</td><td>72</td>
+	</tr><tr>
+		<td>213300423B0038</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>50</td><td>70</td>
+	</tr><tr>
+		<td>193300423A0745</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>416</td><td>582</td>
+	</tr><tr>
+		<td>193300416T0189</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>39</td><td>55</td>
+	</tr><tr>
+		<td>193300423B0212</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>30</td><td>42</td>
+	</tr><tr>
+		<td>213300423A0229</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>213300201B0905</td><td>&nbsp;</td><td>PERMISO DE PUBLICIDAD</td><td>11</td><td>15</td>
+	</tr><tr>
+		<td>213300416X0270</td><td>&nbsp;</td><td>MODIFICACIÓN A LAS CONDICIONES DEL REGISTRO SANITARIO DE MEDICAMENTOS CON CAMBIO EN LOS PROCESOS DE FABRICACIÓN</td><td>7</td><td>9</td>
+	</tr><tr>
+		<td>213300423B0088</td><td>&nbsp;</td><td>SOLICITUD DE PRÓRROGA DEL REGISTRO SANITARIO DE MEDICAMENTOS ALOPÁTICOS, VACUNAS, HEMODERIVADOS Y BIOMEDICAMENTOS</td><td>7</td><td>9</td>
+	</tr><tr>
+		<td>213300EL800076</td><td>&nbsp;</td><td>SOLICITUD DE COPIAS CERTIFICADAS</td><td>7</td><td>9</td>
+	</tr><tr>
+		<td>213300201B0996</td><td>&nbsp;</td><td>PERMISO DE PUBLICIDAD</td><td>5</td><td>7</td>
+	</tr><tr>
+		<td>213300201B0997</td><td>&nbsp;</td><td>PERMISO DE PUBLICIDAD</td><td>5</td><td>7</td>
+	</tr><tr>
+		<td>213300201B0999</td><td>&nbsp;</td><td>PERMISO DE PUBLICIDAD</td><td>5</td><td>7</td>
+	</tr><tr>
+		<td>213300EL800079</td><td>&nbsp;</td><td>SOLICITUD DE COPIAS CERTIFICADAS</td><td>5</td><td>7</td>
+	</tr><tr>
+		<td>183300EL750333</td><td>&nbsp;</td><td>OTROS</td><td>860</td><td>1204</td>
+	</tr><tr>
+		<td>183300EL750611</td><td>&nbsp;</td><td>OTROS</td><td>847</td><td>1185</td>
+	</tr><tr>
+		<td>183300EL720225</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>826</td><td>1156</td>
+	</tr><tr>
+		<td>183300EL720224</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>826</td><td>1156</td>
+	</tr><tr>
+		<td>183300EL720223</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>826</td><td>1156</td>
+	</tr><tr>
+		<td>183300EL720222</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>826</td><td>1156</td>
+	</tr><tr>
+		<td>183300EL720221</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>826</td><td>1156</td>
+	</tr><tr>
+		<td>183300EL700972</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>799</td><td>1119</td>
+	</tr><tr>
+		<td>183300EL720357</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>790</td><td>1106</td>
+	</tr><tr>
+		<td>183300EL720356</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>790</td><td>1106</td>
+	</tr><tr>
+		<td>183300EL720466</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>773</td><td>1081</td>
+	</tr><tr>
+		<td>183300EL720502</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>764</td><td>1070</td>
+	</tr><tr>
+		<td>183300EL720506</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>762</td><td>1066</td>
+	</tr><tr>
+		<td>183300EL752774</td><td>&nbsp;</td><td>OTROS</td><td>759</td><td>1063</td>
+	</tr><tr>
+		<td>183300EL720555</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>751</td><td>1051</td>
+	</tr><tr>
+		<td>183300EL720586</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>745</td><td>1043</td>
+	</tr><tr>
+		<td>183300EL720610</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>741</td><td>1037</td>
+	</tr><tr>
+		<td>183300EL720611</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>741</td><td>1037</td>
+	</tr><tr>
+		<td>183300EL720627</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>737</td><td>1031</td>
+	</tr><tr>
+		<td>183300EL720662</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>724</td><td>1014</td>
+	</tr><tr>
+		<td>183300EL720664</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>724</td><td>1014</td>
+	</tr><tr>
+		<td>183300EL754016</td><td>&nbsp;</td><td>OTROS</td><td>713</td><td>997</td>
+	</tr><tr>
+		<td>183300EL720735</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>713</td><td>997</td>
+	</tr><tr>
+		<td>183300EL720824</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>700</td><td>980</td>
+	</tr><tr>
+		<td>183300EL720825</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>700</td><td>980</td>
+	</tr><tr>
+		<td>183300EL721387</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>684</td><td>958</td>
+	</tr><tr>
+		<td>183300EL755229</td><td>&nbsp;</td><td>OTROS</td><td>685</td><td>959</td>
+	</tr><tr>
+		<td>183300EL721862</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>657</td><td>919</td>
+	</tr><tr>
+		<td>183300EL721876</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>653</td><td>913</td>
+	</tr><tr>
+		<td>183300EL721878</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>653</td><td>913</td>
+	</tr><tr>
+		<td>183300EL721879</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>653</td><td>913</td>
+	</tr><tr>
+		<td>183300EL721880</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>653</td><td>913</td>
+	</tr><tr>
+		<td>183300EL756812</td><td>&nbsp;</td><td>OTROS</td><td>635</td><td>889</td>
+	</tr><tr>
+		<td>183300EL722090</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>631</td><td>883</td>
+	</tr><tr>
+		<td>183300EL722091</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>631</td><td>883</td>
+	</tr><tr>
+		<td>183300EL722104</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>630</td><td>882</td>
+	</tr><tr>
+		<td>183300EL722103</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>630</td><td>882</td>
+	</tr><tr>
+		<td>183300EL704483</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>621</td><td>869</td>
+	</tr><tr>
+		<td>193300EL720052</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>601</td><td>841</td>
+	</tr><tr>
+		<td>193300EL720051</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>601</td><td>841</td>
+	</tr><tr>
+		<td>193300EL720076</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>599</td><td>839</td>
+	</tr><tr>
+		<td>193300EL720077</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>599</td><td>839</td>
+	</tr><tr>
+		<td>193300EL720078</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>599</td><td>839</td>
+	</tr><tr>
+		<td>193300EL720081</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>599</td><td>839</td>
+	</tr><tr>
+		<td>193300EL720079</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>599</td><td>839</td>
+	</tr><tr>
+		<td>193300EL720080</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>599</td><td>839</td>
+	</tr><tr>
+		<td>193300EL720104</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>594</td><td>832</td>
+	</tr><tr>
+		<td>193501EL720024</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>572</td><td>800</td>
+	</tr><tr>
+		<td>193501EL720023</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>572</td><td>800</td>
+	</tr><tr>
+		<td>193501EL720032</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>563</td><td>787</td>
+	</tr><tr>
+		<td>193501EL720033</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>563</td><td>787</td>
+	</tr><tr>
+		<td>193501EL750152</td><td>&nbsp;</td><td>OTROS</td><td>563</td><td>787</td>
+	</tr><tr>
+		<td>193501EL720060</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>532</td><td>744</td>
+	</tr><tr>
+		<td>193501EL720061</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>532</td><td>744</td>
+	</tr><tr>
+		<td>193501EL720062</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>532</td><td>744</td>
+	</tr><tr>
+		<td>193501EL720063</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>532</td><td>744</td>
+	</tr><tr>
+		<td>193501EL720068</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>518</td><td>724</td>
+	</tr><tr>
+		<td>193501EL720069</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>518</td><td>724</td>
+	</tr><tr>
+		<td>193501EL700209</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>518</td><td>724</td>
+	</tr><tr>
+		<td>193501EL750312</td><td>&nbsp;</td><td>OTROS</td><td>518</td><td>724</td>
+	</tr><tr>
+		<td>193501EL750319</td><td>&nbsp;</td><td>OTROS</td><td>515</td><td>721</td>
+	</tr><tr>
+		<td>193501EL720071</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>515</td><td>721</td>
+	</tr><tr>
+		<td>193501EL720072</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>515</td><td>721</td>
+	</tr><tr>
+		<td>193501EL720076</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>512</td><td>716</td>
+	</tr><tr>
+		<td>193501EL720081</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>504</td><td>706</td>
+	</tr><tr>
+		<td>193501EL720083</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>500</td><td>700</td>
+	</tr><tr>
+		<td>193501EL720084</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>500</td><td>700</td>
+	</tr><tr>
+		<td>193501EL720085</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>500</td><td>700</td>
+	</tr><tr>
+		<td>193501EL720086</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>500</td><td>700</td>
+	</tr><tr>
+		<td>193501EL720087</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>500</td><td>700</td>
+	</tr><tr>
+		<td>193501EL720088</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>500</td><td>700</td>
+	</tr><tr>
+		<td>193501EL720092</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>498</td><td>696</td>
+	</tr><tr>
+		<td>193501EL720096</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>492</td><td>688</td>
+	</tr><tr>
+		<td>193501EL720097</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>492</td><td>688</td>
+	</tr><tr>
+		<td>193501EL720099</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>481</td><td>673</td>
+	</tr><tr>
+		<td>193501EL720100</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>481</td><td>673</td>
+	</tr><tr>
+		<td>193501EL720101</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>481</td><td>673</td>
+	</tr><tr>
+		<td>193501EL720116</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>472</td><td>660</td>
+	</tr><tr>
+		<td>193501EL720112</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>472</td><td>660</td>
+	</tr><tr>
+		<td>193501EL720115</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>472</td><td>660</td>
+	</tr><tr>
+		<td>193501EL720114</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>472</td><td>660</td>
+	</tr><tr>
+		<td>193501EL720113</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>472</td><td>660</td>
+	</tr><tr>
+		<td>193501EL720111</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>472</td><td>660</td>
+	</tr><tr>
+		<td>193501EL720110</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>472</td><td>660</td>
+	</tr><tr>
+		<td>193501EL720109</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>472</td><td>660</td>
+	</tr><tr>
+		<td>193501EL720119</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>471</td><td>659</td>
+	</tr><tr>
+		<td>193501EL750483</td><td>&nbsp;</td><td>OTROS</td><td>471</td><td>659</td>
+	</tr><tr>
+		<td>193501EL720124</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>455</td><td>637</td>
+	</tr><tr>
+		<td>193501EL720127</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>450</td><td>630</td>
+	</tr><tr>
+		<td>193501EL720126</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>450</td><td>630</td>
+	</tr><tr>
+		<td>193501EL700307</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>446</td><td>624</td>
+	</tr><tr>
+		<td>193501EL720131</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>443</td><td>619</td>
+	</tr><tr>
+		<td>193501EL720132</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>443</td><td>619</td>
+	</tr><tr>
+		<td>193501EL720134</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>436</td><td>610</td>
+	</tr><tr>
+		<td>193501EL720145</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>421</td><td>589</td>
+	</tr><tr>
+		<td>193501EL720146</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>421</td><td>589</td>
+	</tr><tr>
+		<td>193501EL720147</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>421</td><td>589</td>
+	</tr><tr>
+		<td>193501EL720148</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>421</td><td>589</td>
+	</tr><tr>
+		<td>193501EL720153</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>416</td><td>582</td>
+	</tr><tr>
+		<td>193501EL720152</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>416</td><td>582</td>
+	</tr><tr>
+		<td>193501EL720156</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>400</td><td>560</td>
+	</tr><tr>
+		<td>193501EL720160</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>400</td><td>560</td>
+	</tr><tr>
+		<td>193501EL720159</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>400</td><td>560</td>
+	</tr><tr>
+		<td>193501EL720158</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>400</td><td>560</td>
+	</tr><tr>
+		<td>193501EL720157</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>400</td><td>560</td>
+	</tr><tr>
+		<td>193501EL720162</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>376</td><td>526</td>
+	</tr><tr>
+		<td>193501EL720163</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>376</td><td>526</td>
+	</tr><tr>
+		<td>193501EL720164</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>376</td><td>526</td>
+	</tr><tr>
+		<td>193501EL720165</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>376</td><td>526</td>
+	</tr><tr>
+		<td>193501EL720166</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>376</td><td>526</td>
+	</tr><tr>
+		<td>193501EL700387</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>376</td><td>526</td>
+	</tr><tr>
+		<td>193501EL720172</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>376</td><td>526</td>
+	</tr><tr>
+		<td>193501EL720173</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>375</td><td>525</td>
+	</tr><tr>
+		<td>193501EL720171</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>375</td><td>525</td>
+	</tr><tr>
+		<td>193501EL720174</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>375</td><td>525</td>
+	</tr><tr>
+		<td>193501EL720178</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>369</td><td>517</td>
+	</tr><tr>
+		<td>193501EL750738</td><td>&nbsp;</td><td>OTROS</td><td>362</td><td>506</td>
+	</tr><tr>
+		<td>193501EL750741</td><td>&nbsp;</td><td>OTROS</td><td>362</td><td>506</td>
+	</tr><tr>
+		<td>203501EL720003</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>343</td><td>479</td>
+	</tr><tr>
+		<td>203501EL720004</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>343</td><td>479</td>
+	</tr><tr>
+		<td>203501EL720005</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>343</td><td>479</td>
+	</tr><tr>
+		<td>203501EL720007</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>338</td><td>472</td>
+	</tr><tr>
+		<td>203501EL720006</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>338</td><td>472</td>
+	</tr><tr>
+		<td>203501EL750027</td><td>&nbsp;</td><td>OTROS</td><td>338</td><td>472</td>
+	</tr><tr>
+		<td>203501EL720008</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>334</td><td>468</td>
+	</tr><tr>
+		<td>203501EL720009</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>334</td><td>468</td>
+	</tr><tr>
+		<td>203501EL720010</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>334</td><td>468</td>
+	</tr><tr>
+		<td>203501EL720011</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>334</td><td>468</td>
+	</tr><tr>
+		<td>203501EL750047</td><td>&nbsp;</td><td>OTROS</td><td>329</td><td>461</td>
+	</tr><tr>
+		<td>203501EL720015</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>326</td><td>456</td>
+	</tr><tr>
+		<td>203501EL720014</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>326</td><td>456</td>
+	</tr><tr>
+		<td>203501EL720013</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>326</td><td>456</td>
+	</tr><tr>
+		<td>203501EL720012</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>326</td><td>456</td>
+	</tr><tr>
+		<td>203501EL720017</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>321</td><td>449</td>
+	</tr><tr>
+		<td>203501EL720018</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>321</td><td>449</td>
+	</tr><tr>
+		<td>203501EL720022</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>314</td><td>440</td>
+	</tr><tr>
+		<td>203501EL720023</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>314</td><td>440</td>
+	</tr><tr>
+		<td>203501EL720019</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>314</td><td>440</td>
+	</tr><tr>
+		<td>203501EL720021</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>314</td><td>440</td>
+	</tr><tr>
+		<td>203501EL750076</td><td>&nbsp;</td><td>OTROS</td><td>311</td><td>435</td>
+	</tr><tr>
+		<td>203300EL720454</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>293</td><td>409</td>
+	</tr><tr>
+		<td>183300EL721663</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>667</td><td>933</td>
+	</tr><tr>
+		<td>193300EL720454</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>545</td><td>763</td>
+	</tr><tr>
+		<td>203300EL720799</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL720797</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>155</td><td>217</td>
+	</tr><tr>
+		<td>203300EL742446</td><td>&nbsp;</td><td>TECNOVIGILANCIA</td><td>142</td><td>198</td>
+	</tr><tr>
+		<td>203300EL753136</td><td>&nbsp;</td><td>OTROS</td><td>136</td><td>190</td>
+	</tr><tr>
+		<td>183300EL720724</td><td>&nbsp;</td><td>FARMACOVIGILANCIA</td><td>714</td><td>1000</td>
+	</tr><tr>
+		<td>213300EL740434</td><td>&nbsp;</td><td>TECNOVIGILANCIA</td><td>70</td><td>98</td>
+	</tr>
+</table>

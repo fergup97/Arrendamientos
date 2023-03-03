@@ -1,0 +1,9 @@
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Arrendamientos\bin\Arrendamientos.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Arrendamientos\bin\Arrendamientos.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Arrendamientos\obj\Debug\Arrendamientos.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Arrendamientos\obj\Debug\Arrendamientos.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Arrendamientos\bin\AjaxControlToolkit.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Arrendamientos\bin\Arrendamientos.dll.config
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Arrendamientos\obj\Debug\Arrendamientos.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Arrendamientos\obj\Debug\Arrendamientos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\Arrendamientos\obj\Debug\Arrendamientos.csproj.CopyComplete
